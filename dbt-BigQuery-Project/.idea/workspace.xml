@@ -4,26 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9b676cf-31ed-4968-9e57-2406decfc9fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbt-BigQuery-Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbt_crash_course/models/customers.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbt_crash_course/models/schema.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbt_crash_course/seeds/stadium_cleaned.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="c9b676cf-31ed-4968-9e57-2406decfc9fc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -124,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732528936719</updated>
       <workItem from="1733501608834" duration="2889000" />
-      <workItem from="1733576927634" duration="3315000" />
+      <workItem from="1733576927634" duration="3652000" />
     </task>
     <servers />
   </component>
